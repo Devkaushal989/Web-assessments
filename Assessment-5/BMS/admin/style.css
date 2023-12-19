@@ -1,0 +1,25 @@
+.role_container{
+    margin: auto 0px;
+    margin-top: 20px;
+    border: 1px solid rgb(91, 84, 84);
+    box-shadow: 2px 2px 2px 2px ;
+    color: rgb(69, 65, 65);
+    text-align: center;
+
+padding: 50px;
+}
+.btn1{
+    float: right;
+    margin-right: 0px;
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 3px 7px;
+}
+.btn2{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 3px 7px;
+}
+

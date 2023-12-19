@@ -1,0 +1,47 @@
+.container{
+    width: 100%;
+}
+img{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    background-color: #f2f2f2;
+    float: left;
+}
+.login{
+    margin: 0px auto;
+    padding: 10px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    border: 1px solid black;
+    height: 80%;
+    width: 400px;
+}
+span{
+    padding-left: 100px;
+}
+button{
+    background-color: green;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    margin-left: 50px;
+}
+.icon{
+    text-align: center;
+}
+.with{
+    padding-left: 170px;
+}
+i{
+    padding-left: 10px;
+}
+.abcd{
+    padding-left: 50px;
+}

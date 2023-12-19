@@ -1,0 +1,33 @@
+-php
+-mysql(relational database)-row or column
+-ui html ,css,bootstap
+-validation_,php,html,javascript
+
+
+-Project name book management system
+
+-control panel(admin panel)
+    -company employee
+        -name ,email id,password
+        -by default one entry in DB
+    - category
+        -name,detail,image
+    -book
+        -category (category table),book name,detail,image,pdf,gallery,youtube video link,store name, rack,author,poublisher,edition,language,
+
+    -dashboard -(number analysis)
+    -report
+        -daily report -total book read 
+    
+
+-front end (customer end)
+
+    -home
+    -category
+    -booka
+    -books detail 
+    -contact
+    
+
+
+    date time(y-m-d h:i:s)
