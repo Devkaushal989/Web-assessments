@@ -1,0 +1,80 @@
+body {
+    background-color: white;
+    margin: 0;
+    height: auto;
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+    margin: 0px;
+    width: 100%;
+    height: auto;
+}
+
+.left {
+    height: auto;
+    width: 49%;
+    float: left;
+    background-color: white;
+}
+
+#img {
+    width: 100%;
+}
+
+.right {
+    margin: 0;
+    color: black;
+    padding: 30px 10px 20px 10px;
+    float: right;
+    width: 49%;
+    background-color: #f2f2f2;
+    border-top: 100px;
+    text-align: center;
+}
+
+.logincard {
+    background-color: white;
+    margin: 10% 10% 10% 10%;
+    padding: 10px;
+    border: 1px solid black;
+    width: 80%;
+}
+
+
+#submit {
+    color: white;
+    background-color: rgb(62, 194, 66);
+    width: 300px;
+    align-self: center;
+}
+
+a {
+    color: rgba(18, 148, 18, 0.655);
+    text-decoration: none;
+}
+
+.email {
+    width: 300px;
+    align-items: center;
+}
+
+.Login {
+    text-align: left;
+}
+
+.password {
+    width: 300px;
+}
+
+#address {
+    text-align: left;
+}
+
+.welcome {
+    text-align: left;
+}
+h4{
+    text-align: left;
+}
